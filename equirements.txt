@@ -1,8 +1,10 @@
-streamlit
-librosa
-numpy
+streamlit==1.32.2
+numpy<2.0
 pandas
 scikit-learn
 matplotlib
 seaborn
 soundfile
+librosa==0.10.1
+numba<0.60
+

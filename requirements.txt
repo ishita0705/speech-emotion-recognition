@@ -6,5 +6,5 @@ matplotlib
 seaborn
 soundfile
 librosa==0.10.1
-numba<0.60
-
+numba==0.59.1
+llvmlite==0.42.0
